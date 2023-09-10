@@ -11,3 +11,7 @@ Jiahui's homework for Module 18
 - In case you cannot open the twb file, please check Citi-Bike-Analytics.pptx or Citi-Bike-Analytics.pdf, which contain all the work in the twb file.
 - Because of this old version of Tableau, I cannot share my twb file with Tableau Public.
 
+## Analysis
+**How many trips have been recorded in total during the chosen period?**
+
+- 
