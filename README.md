@@ -13,5 +13,11 @@ Jiahui's homework for Module 18
 
 ## Analysis
 **How many trips have been recorded in total during the chosen period?**
+- The number of users has increased steadily in the past 3 months.
+- In June 2023, 97.023 people had used the bikes.
 
-- 
+**How many types of membership during the chosen period?**
+- There are two types of membership: casual and member.
+- There are about 2.5 times more member riders than casual riders.
+
+
