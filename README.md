@@ -16,8 +16,13 @@ Jiahui's homework for Module 18
 - The number of users has increased steadily in the past 3 months.
 - In June 2023, 97.023 people had used the bikes.
 
-**How many types of membership during the chosen period?**
+**How many types of membership are there during the chosen period?**
 - There are two types of membership: casual and member.
 - There are about 2.5 times more member riders than casual riders.
+
+**How many types of riders are there during the chosen period?**
+- There are three types of riders: docked bikes, electric bikes, and classic bikes.
+- There are 222,316 classic bike riders, which makes up the highest percentage among the three types of riders.
+- 1,567 docked-bike riders amount to the least percentage among the three types of riders.
 
 
