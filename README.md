@@ -8,6 +8,6 @@ Jiahui's homework for Module 18
 ## Tableau Workbook File
 - Citi-Bike-Analytics.twb is the Tableau Workbook for this challenge.
 - The Tableau that I used to finish this challenge is the 2019.1 version.
-- In case you cannot open the twb file, please check the Citi-Bike-Analytics.pptx file, which contains all the work in the twb file.
-- Because of this old version of Tableau, I cannot share my twb file to Tableau Public.
+- In case you cannot open the twb file, please check the Citi-Bike-Analytics.pptx or Citi-Bike-Analytics.pdf files, which contain all the work in the twb file.
+- Because of this old version of Tableau, I cannot share my twb file with Tableau Public.
 
