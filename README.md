@@ -25,4 +25,7 @@ Jiahui's homework for Module 18
 - There are 222,316 classic bike riders, which makes up the highest percentage among the three types of riders.
 - 1,567 docked-bike riders amount to the least percentage among the three types of riders.
 
+**About Bike Stations**
+- The top 10 popular and least popular bike stations for starting and ending are shown in the bar charts.
+- The positions of the top 10 popular and least popular bike stations for starting and ending are shown in the maps.
 
